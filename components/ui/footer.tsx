@@ -59,7 +59,7 @@ const SocialIcon: React.FC<SocialIconProps> = ({ icon: Icon, name, link }) => {
           <div className="lg:col-span-5 bg-gradient-to-br from-black/60 to-[#0c1f0c]/30 p-6 rounded-xl border border-gray-800/50 shadow-xl backdrop-blur-sm">
             <div className="flex items-center mb-5">
               <div className="w-12 h-12 bg-[#ff6a00] rounded-md flex items-center justify-center mr-3 shadow-[0_0_15px_rgba(74,229,74,0.5)]">
-                <span className="text-black font-bold text-4xl">M</span>
+                <span className="text-black font-bold text-4xl">R</span>
               </div>
               <h3 className="text-white text-2xl font-bold">Rafey</h3>
             </div>
@@ -126,10 +126,10 @@ const SocialIcon: React.FC<SocialIconProps> = ({ icon: Icon, name, link }) => {
 
             </h3>
             <div className="space-y-3">
-              <FooterLink href="#" text="Short-form content" />
+              <FooterLink href="#" text="Thumbnail" />
               <FooterLink href="#" text="Talking head thumbnail" />
               <FooterLink href="#" text="Video Sales Letters (VSLs)" />
-              <FooterLink href="#" text="Advanced motion graphics & animations" />
+              <FooterLink href="#" text="Reel thumbnail" />
               <FooterLink href="#" text="Professional color grading" />
            
             </div>
