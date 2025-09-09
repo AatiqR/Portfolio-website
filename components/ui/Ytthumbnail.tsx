@@ -62,7 +62,7 @@ const VideoCard: React.FC<{ video: VideoData }> = ({ video }) => {
         <img
           src={video.thumbnail}
           alt={video.title}
-          fill
+         
           className="object-cover transition-transform duration-300 group-hover:scale-105"
           loading="lazy"
         />

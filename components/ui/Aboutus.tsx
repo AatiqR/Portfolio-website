@@ -139,7 +139,7 @@ export default function AboutUs() {
                 <h3 className="text-3xl lg:text-4xl font-bold text-white">
                   Rafey{" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-amber-400">
-                    Murad
+                    Awan
                   </span>
                 </h3>
               </motion.div>
@@ -150,27 +150,18 @@ export default function AboutUs() {
                 className="h-1 bg-gradient-to-r from-orange-500 to-amber-400 rounded-full mb-6"
               />
               <p className="text-gray-100 text-lg leading-relaxed">
-                I’m Rafey Awan, a passionate Graphic Designer with a Bachelor’s
-                 degree in Film, TV & Digital Media and over 3 years of professional
-                  experience in the industry. My work is driven by a love for storytelling 
-                  and a commitment to producing high-quality, impactful visuals.
+               I’m Rafey Awan, a passionate Thumbnail Designer with over 3 years of professional experience helping creators, brands, and businesses maximize their online presence. With a strong background in graphic design and visual storytelling, I focus on crafting high-quality, eye-catching thumbnails that convert viewers into clicks.
               
               </p>
                   <br />
               <p className="text-gray-100 text-lg leading-relaxed">
                 
-            I specialize in editing with Adobe Premiere Pro, creating 
-            animations & motion graphics in After Effects, and performing
-             advanced color grading in DaVinci Resolve. Throughout my career,
-              I’ve had the privilege of working with renowned brands, coaches,
-               founders, CEOs, and creators worldwide. 
+           I specialize in designing YouTube thumbnails that balance bold visuals, clear messaging, and proven CTR-boosting strategies. My work has supported coaches, founders, CEOs, and creators worldwide — from established brands to fast-growing faceless YouTube channels with millions of subscribers.
                
               </p>
               <br />
               <p>
-               I’ve also edited for multiple 
-               faceless YouTube channels with millions of subscribers, helping them grow and
-                maintain a strong digital presence.
+              Every design I create is tailored to stand out in the crowded digital space, ensuring your content gets the visibility it deserves.
               </p>
             </div>
 
